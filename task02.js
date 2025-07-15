@@ -4,9 +4,9 @@
 // (hint: typeof or isNaN)
 
 
-const userInput = NaN;
+const userInput = "hello";
 // Try changing to "hello", 10, null, NaN
-console.log(typeof NaN);
+console.log(typeof "hello");
 
 if (typeof userInput === "number" && !isNaN(userInput)) {
   console.log("It is a number.");

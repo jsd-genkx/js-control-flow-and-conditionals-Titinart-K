@@ -9,3 +9,8 @@
 // TODO BONUS: Rewrite with if
 
 const num = 15;
+console.log(num);
+
+if(num === 0) {
+    console
+}
